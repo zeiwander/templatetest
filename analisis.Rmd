@@ -1,5 +1,5 @@
 ---
-title: "amalisis"
+title: "analisis de la produccion de aceite"
 author: "Zeiwander"
 date: "15 de marzo de 2018"
 output: html_document
@@ -17,6 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
+head(cars)
 ```
 
 ## Including Plots
