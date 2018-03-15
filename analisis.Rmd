@@ -2,7 +2,7 @@
 title: "analisis de la produccion de aceite"
 author: "Zeiwander"
 date: "15 de marzo de 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
